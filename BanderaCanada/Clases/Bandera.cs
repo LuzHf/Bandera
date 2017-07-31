@@ -34,7 +34,7 @@ namespace BanderaCanada.Clases
             Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine();
-            Console.WriteLine("                                    Esta es la bandera de Cánanda");
+            Console.WriteLine("                                    Esta es la bandera de Cánada");
 
             Console.ReadLine();
             Console.Clear();
